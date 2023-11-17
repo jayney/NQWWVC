@@ -1,5 +1,5 @@
 # NQWWVC
-Not Quite the Worlds Worst Video Card
+Not Quite the Worlds Worst Video Card (Schematic to follow)
 
 This is a re-creation of Ben Eater's "World's Worst Video Card", using programmable logic devices, 
 specifically ATF22V10C, to replace the discrete logic used for the horizontal and vertical sync and
